@@ -5,16 +5,16 @@
     "icon": "https://i2.wp.com/nine-lie.com/wp-content/uploads/2020/04/unnamed-file.png",
     "slug": "nine-lie",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 466,
-    "timeDay": 650,
-    "timeWeek": 556,
-    "timeMonth": 533,
-    "timeYear": 466,
+    "uptimeYear": "100.00%",
+    "time": 467,
+    "timeDay": 571,
+    "timeWeek": 543,
+    "timeMonth": 544,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2021-08-05": 26
     }
