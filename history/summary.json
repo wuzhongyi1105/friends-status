@@ -4,19 +4,19 @@
     "url": "https://nine-lie.com/",
     "icon": "https://i2.wp.com/nine-lie.com/wp-content/uploads/2020/04/unnamed-file.png",
     "slug": "nine-lie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 634,
-    "timeWeek": 675,
-    "timeMonth": 673,
-    "timeYear": 610,
+    "time": 600,
+    "timeDay": 368,
+    "timeWeek": 603,
+    "timeMonth": 654,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 13
     }
   }
 ]
