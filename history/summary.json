@@ -6,17 +6,15 @@
     "slug": "nine-lie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 368,
-    "timeWeek": 603,
-    "timeMonth": 654,
+    "timeDay": 424,
+    "timeWeek": 610,
+    "timeMonth": 672,
     "timeYear": 609,
-    "dailyMinutesDown": {
-      "2023-12-05": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
